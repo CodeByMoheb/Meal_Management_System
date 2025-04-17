@@ -19,6 +19,11 @@ The **Meal Management System** is a web-based application built using **.NET MVC
 ### 🔻 Meal Entry Page
 
 ![meal entry Screenshot](https://github.com/CodeByMoheb/Meal_Management_System/blob/main/Screenshot%202025-01-18%20015616.png?raw=true)
+### 🔻 Meal Cost & meal rate Calculation
+
+![mealcost and rate](https://github.com/CodeByMoheb/Meal_Management_System/blob/main/Screenshot%202025-01-18%20015657.png
+)
+
 
 
 ### 🔻 Monghtly report
