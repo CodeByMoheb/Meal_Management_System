@@ -11,7 +11,7 @@ The **Meal Management System** is a web-based application built using **.NET MVC
 ## 📸 Screenshots
 
 ### 🔻 Dashboard Preview
-![Dashboard Screenshot]([https://github.com/CodeByMoheb/Meal_Management_System/blob/7a81d76a0226e434c849782ffd4894131bc5564c/Screenshot%202025-01-18%20015616.png))
+![Dashboard Screenshot]([Screenshot 2025-01-18 015616.png))
 
 ### 🔻 Meal Entry Page
 ![Meal Entry Screenshot]([https://your-image-link.com/meal-entry.png](https://github.com/CodeByMoheb/Meal_Management_System/blob/main/Screenshot%202025-01-18%20015413.png))
